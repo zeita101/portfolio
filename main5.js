@@ -9,7 +9,7 @@ var letterColors = [red, orange, green, blue, purple];
 
 drawName(myName, letterColors);
 
-if(15 < 3)
+if(10 < 5)
 {
     bubbleShape = 'square';
 }
