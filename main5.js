@@ -1,4 +1,4 @@
-var myName = "    About The Creators      ";
+var myName = "    About The Creators";
 
 var red = [0, 100, 63];
 var orange = [40, 100, 60];
