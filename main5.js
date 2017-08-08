@@ -1,4 +1,4 @@
-var myName = "About.The.Creators";
+var myName = "About the Creators";
 
 var red = [0, 100, 63];
 var orange = [40, 100, 60];
@@ -11,7 +11,7 @@ drawName(myName, letterColors);
 
 if(10 < 5)
 {
-    bubbleShape = 'square';
+    bubbleShape = 'rectangle';
 }
 else
 {
